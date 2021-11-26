@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Direcţia  de  Asistență Socială Bacău'
+theme = 'hugo-cards'
+
+[params]
+	facebook = "https://www.facebook.com/DAS.Municipiul.Bacau"
+	email = "contact@dasbacau.ro"
+	defaultImage = "logo8.png"
