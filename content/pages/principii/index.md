@@ -1,0 +1,29 @@
+---
+title: "Principii"
+date: 2021-12-02T18:39:27+02:00
+draft: true
+---
+
+**Direcţia de Asistență Socială a Municipiului Bacău** se organizează si funcţionează pe baza următoarelor principii:
+- **solidaritatea socială**, potrivit căreia întreaga comunitate participă la sprijinirea persoanelor vulnerabile care necesită suport şi măsuri de protecţie socială pentru depăşirea sau limitarea unor situaţii de dificultate, în scopul asigurării incluziunii sociale a acestei categorii de populaţie;
+- **subsidiaritatea**, potrivit căreia, în situaţia în care persoana sau familia nu îşi poate asigura integral nevoile sociale, intervin colectivitatea locală şi structurile ei asociative şi, complementar, statul;
+- **universalitatea**, potrivit căreia fiecare persoană are dreptul la asistenţă socială, în condiţiile prevăzute de lege;
+- **respectarea demnităţii umane**, potrivit căreia fiecărei persoane îi este garantată dezvoltarea liberă şi deplină a personalităţii, îi sunt respectate statutul individual şi social şi dreptul la intimitate şi protecţie împotriva oricărui abuz fizic, psihic, intelectual, politic sau economic;
+- **abordarea individuală**, potrivit căreia măsurile de asistenţă socială trebuie adaptate situaţiei particulare de viaţă a fiecărui individ; acest principiu ia în considerare caracterul şi cauza unor situaţii de urgenţă care pot afecta abilităţile individuale, condiţia fizică şi mentală, precum şi nivelul de integrare socială a persoanei; suportul adresat situaţiei de dificultate individuală constă inclusiv în măsuri de susţinere adresate membrilor familiei beneficiarului;
+- **parteneriatul**, potrivit căruia autorităţile publice centrale şi locale, instituţiile publice şi private, organizaţiile neguvernamentale, instituţiile de cult recunoscute de lege, precum şi membrii comunităţii stabilesc obiective comune, conlucrează şi mobilizează toate resursele necesare pentru asigurarea unor condiţii de viaţă decente şi demne pentru persoanele vulnerabile;
+- **participarea beneficiarilor**, potrivit căreia beneficiarii participă la formularea şi implementarea politicilor cu impact direct asupra lor, la realizarea programelor individualizate de suport social şi se implică activ în viaţa comunităţii, prin intermediul formelor de asociere sau direct, prin activităţi voluntare desfăşurate în folosul persoanelor vulnerabile;
+- **transparenţa**, potrivit căreia se asigură creşterea gradului de responsabilitate a administraţiei publice centrale şi locale faţă de cetăţean, precum şi stimularea participării active a beneficiarilor la procesul de luare a deciziilor;
+- **nediscriminarea**, potrivit căreia persoanele vulnerabile beneficiază de măsuri şi acţiuni de protecţie socială fără restricţie sau preferinţă faţă de rasă, naţionalitate, origine etnică, limbă, religie, categorie socială, opinie, sex ori orientare sexuală, vârstă, apartenenţă politică, dizabilitate, boală cronică necontagioasă, infectare HIV sau apartenenţă la o categorie defavorizată;
+- **eficacitatea**, potrivit căreia utilizarea resurselor publice are în vedere îndeplinirea obiectivelor programate pentru fiecare dintre activităţi şi obţinerea celui mai bun rezultat în raport cu efectul proiectat;
+- **eficienţa**, potrivit căreia utilizarea resurselor publice are la bază respectarea celui mai bun raport cost-beneficiu;
+- **respectarea dreptului la autodeterminare**, potrivit căreia fiecare persoană are dreptul de a face propriile alegeri, indiferent de valorile sale sociale, asigurându-se că aceasta nu ameninţă drepturile sau interesele legitime ale celorlalţi;
+- **activizarea**, potrivit căreia măsurile de asistenţă socială au ca obiectiv final încurajarea ocupării, în scopul integrării/reintegrării sociale şi creşterii calităţii vieţii persoanei, şi întărirea nucleului familial;
+- **caracterul unic al dreptului la beneficiile de asistenţă socială**, potrivit căruia pentru aceeaşi nevoie sau situaţie de risc social se poate acorda un singur beneficiu de acelaşi tip;
+- **proximitatea**, potrivit căreia serviciile sunt organizate cât mai aproape de beneficiar, pentru facilitarea accesului şi menţinerea persoanei cât mai mult posibil în propriul mediu de viaţă;
+- **complementaritatea şi abordarea integrată**, potrivit cărora, pentru asigurarea întregului potenţial de funcţionare socială a persoanei ca membru deplin al familiei, comunităţii şi societăţii, serviciile sociale trebuie corelate cu toate nevoile beneficiarului şi acordate integrat cu o gamă largă de măsuri şi servicii din domeniul economic, educaţional, de sănătate, cultural etc.;
+- **concurenţa şi competitivitatea**, potrivit cărora furnizorii de servicii sociale publici şi privaţi trebuie să se preocupe permanent de creşterea calităţii serviciilor acordate şi să beneficieze de tratament egal pe piaţa serviciilor sociale;
+- **egalitatea de şanse**, potrivit căreia beneficiarii, fără niciun fel de discriminare, au acces în mod egal la oportunităţile de împlinire şi dezvoltare personală, dar şi la măsurile şi acţiunile de protecţie socială;
+- **confidenţialitatea**, potrivit căreia, pentru respectarea vieţii private, beneficiarii au dreptul la păstrarea confidenţialităţii asupra datelor personale şi informaţiilor referitoare la viaţa privată şi situaţia de dificultate în care se află;
+- **echitatea**, potrivit căreia toate persoanele care dispun de resurse socioeconomice similare, pentru aceleaşi tipuri de nevoi, beneficiază de drepturi sociale egale;
+- **focalizarea**, potrivit căreia beneficiile de asistenţă socială şi serviciile sociale se adresează celor mai vulnerabile categorii de persoane şi se acordă în funcţie de veniturile şi bunurile acestora;
+- **dreptul la liberă alegere a furnizorului de servicii**, potrivit căruia beneficiarul sau reprezentantul legal al acestuia are dreptul de a alege liber dintre furnizorii acreditaţi.
