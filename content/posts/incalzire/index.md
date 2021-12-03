@@ -3,26 +3,23 @@ title: "Incalzire"
 date: 2021-11-22T18:20:46+02:00
 draft: true
 img: incalzire.jpg
+tags: ["ajutor"]
 ---
 
-MINISTERUL MUNCII ȘI PROTECȚIEI SOCIALE
+Vrei sa beneficiezi de ajutorul pentru incalzire si suplimentul pentru energie?
+**Completeaza cererea:**
 
-Str. Dem.I.Dobrescu nr. 2-4, sectorul 1, Bucureşti,  cod poștal 010026, Tel: 021 313 62 67https://mmuncii.ro
-TEL. VERDE CONSUMATOR VULNERABIL
-Mai multe informații sunt disponibile pe site-ul 
-Agenției Naționale pentru Plăți și Inspecție
-Socială — www.mmanpis.ro, la primăria de domiciliu 
-sau la linia telefonică gratuită disponibilă de
-luni până vineri în intervalul orar 09:00-22:00 INFORMAȚII UTILE Ajutorul pentru consumatorul vulnerabil
-Suplimentul  pentru energie
-Compensarea  consumului de energie electrică și gaze0800 86 86 22Care sunt sumele decontate
-și plafoanele de venituri
-privind ajutorul pentru
-consumatorul vulnerabil?
+- Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu energie electrica **[PDF](http://www.dasbacau.ro/files/CADAS-AN.pdf) / [DOC](http://www.dasbacau.ro/files/CADAS-AN.docx)**
+- Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu lemne, cărbuni, combustibili petrolieri **[PDF](http://www.dasbacau.ro/files/CADAS-AN.pdf) / [DOC](http://www.dasbacau.ro/files/CADAS-AN.docx)**
 
+[Pliant informatii](http://www.dasbacau.ro/files/MMuncii-Consumatorul-vulnerabil.pdf)
 
-[Pliant](http://www.dasbacau.ro/files/MMuncii-Consumatorul-vulnerabil.pdf)
+### Cum completez?
+**Depunere cerere in nume propriu:**
+{{< youtube ZNRYT9B36wY>}}
 
-Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu energie electrica [PDF](http://www.dasbacau.ro/files/CADAS-AN.pdf) / [DOC](http://www.dasbacau.ro/files/CADAS-AN.docx)
+**Depunere cerere ca reprezentant al familiei:**
+{{< youtube 3M9FJc6xhLs >}}
 
-Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu lemne, cărbuni, combustibili petrolieri [PDF](http://www.dasbacau.ro/files/CADAS-AN.pdf) [DOC](http://www.dasbacau.ro/files/CADAS-AN.docx)
+**Depunere cerere in numele persoanei indreptatite:**
+{{< youtube A9EZjOKYchI >}}
