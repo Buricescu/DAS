@@ -3,7 +3,15 @@ languageCode = 'en-us'
 title = 'Direcţia  de  Asistență Socială Bacău'
 theme = 'hugo-cards'
 
+[markup.goldmark.renderer]
+	unsafe = true
+
 [params]
 	facebook = "https://www.facebook.com/DAS.Municipiul.Bacau"
 	email = "contact@dasbacau.ro"
-	defaultImage = "logo8.png"
+	defaultImage = "daslogo.png"
+
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
