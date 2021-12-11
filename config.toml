@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://buricescu.github.io/DAS/'
 languageCode = 'en-us'
 title = 'Direcţia  de  Asistență Socială Bacău'
 theme = 'hugo-cards'
