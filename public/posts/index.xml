@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Direcţia  de  Asistență Socială Bacău</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Direcţia  de  Asistență Socială Bacău</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 17:47:31 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distribuire masa calda</title>
+      <link>http://example.org/posts/masa/</link>
+      <pubDate>Thu, 02 Dec 2021 17:47:31 +0200</pubDate>
+      
+      <guid>http://example.org/posts/masa/</guid>
+      <description>Ajutor
+  Tables Are Cool     col 1 is left-aligned $1600   col 2 is centered $12   col 3 is right-aligned $1    </description>
+    </item>
+    
+    <item>
+      <title>Incalzire</title>
+      <link>http://example.org/posts/incalzire/</link>
+      <pubDate>Mon, 22 Nov 2021 18:20:46 +0200</pubDate>
+      
+      <guid>http://example.org/posts/incalzire/</guid>
+      <description>Vrei sa beneficiezi de ajutorul pentru incalzire si suplimentul pentru energie? Completeaza cererea:
+ Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu energie electrica PDF / DOC Cerere-declaratie pe proprie raspundere pentru încălzirea locuinței cu lemne, cărbuni, combustibili petrolieri PDF / DOC  Pliant informatii
+Cum completez? Depunere cerere in nume propriu:   Depunere cerere ca reprezentant al familiei:   Depunere cerere in numele persoanei indreptatite:   </description>
+    </item>
+    
+    <item>
+      <title>Oxigen</title>
+      <link>http://example.org/posts/oxigen/</link>
+      <pubDate>Mon, 22 Nov 2021 18:12:40 +0200</pubDate>
+      
+      <guid>http://example.org/posts/oxigen/</guid>
+      <description>Cerere de alocare de echipament - Proiectul &amp;ldquo;Oxigen pentru Bacău&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
