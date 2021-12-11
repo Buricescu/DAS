@@ -41,7 +41,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Build
-        run: hugo -D -v#--minify
+        run: hugo -D -v
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
