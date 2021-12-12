@@ -1,7 +1,7 @@
 ---
 title: "Distribuire masa calda"
 date: 2021-12-02T17:47:31+02:00
-draft: true
+draft: false
 tags: ["ajutor"]
 ---
 

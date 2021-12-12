@@ -1,7 +1,7 @@
 ---
 title: "Despre"
 date: 2021-11-22T18:19:23+02:00
-draft: true
+draft: false
 ---
 
 **Direcţia  de  Asistență Socială a  Municipiului  Bacău** este instituția care oferă asistență și sprijin pentru copii, familie, persoane singure, persoane vârstnice, persoane aflate în nevoie, abuzate, marginalizate sau cu dizabilități. Împreună cu partenerii noștri, organizații nonguvernamentale, fundații, spitale, suntem aproape de cei care au nevoie de ajutor.
@@ -18,5 +18,5 @@ Permanent o echipă de profesioniști formată din specialisti în asistența so
 <div class="jumbotron">
   <h1>Principii</h1>
   <p>Direcţia de Asistență Socială a Municipiului Bacău se organizează si funcţionează pe baza următoarelor principii:</p>
-  <p><a href="http://localhost:1313/pages/principii/" class="btn btn-primary btn-lg">Afla mai mult</a></p>
+  <p><a href="https://buricescu.github.io/DAS/pages/principii/" class="btn btn-primary btn-lg">Afla mai mult</a></p>
 </div>

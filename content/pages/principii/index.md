@@ -1,7 +1,7 @@
 ---
 title: "Principii"
 date: 2021-12-02T18:39:27+02:00
-draft: true
+draft: false
 ---
 
 **Direcţia de Asistență Socială a Municipiului Bacău** se organizează si funcţionează pe baza următoarelor principii:

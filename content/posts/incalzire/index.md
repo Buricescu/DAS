@@ -1,7 +1,7 @@
 ---
 title: "Incalzire"
 date: 2021-11-22T18:20:46+02:00
-draft: true
+draft: false
 img: incalzire.jpg
 tags: ["ajutor"]
 ---
