@@ -18,5 +18,5 @@ Permanent o echipă de profesioniști formată din specialisti în asistența so
 <div class="jumbotron">
   <h1>Principii</h1>
   <p>Direcţia de Asistență Socială a Municipiului Bacău se organizează si funcţionează pe baza următoarelor principii:</p>
-  <p><a href="https://buricescu.github.io/DAS/pages/principii/" class="btn btn-primary btn-lg">Afla mai mult</a></p>
+  <p><a href="../principii/" class="btn btn-primary btn-lg">Afla mai mult</a></p>
 </div>
