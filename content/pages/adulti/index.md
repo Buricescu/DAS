@@ -14,8 +14,7 @@ img: adulti.jpeg
 #carduri:hover {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  text-decoration: none;
- 
+  text-decoration: none; 
 }
 a {
         color: black;
@@ -27,74 +26,69 @@ a:hover {
       }
 </style>
 
-
-Special title treatment
-
-With supporting text below as a natural lead-in to additional content.
-
 <div class="row">
   <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
-        <img class="card-img-top" style="border-radius: 0px 0px 5px 5px;" src="adulti.jpeg" alt="Card image cap">
+        <img class="card-img-top" style="border-radius: 0px 0px 5px 5px;" src="centrezi.jpg" alt="Card image cap">
        </a>
        <div class="card-body" style="background-color: #983d83; border-radius: 5px;">
-        <h5 class="card-title" style="color: white">Special title treatment</h5>
-        <p class="card-text" style="color: white">With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title" style="color: white">Centre de zi</h5>
+        <p class="card-text" style="color: white">Activitati, evenimente, incluziune sociala</p> 
        </div>
     </div>
   </div>
-  <div class="col-sm-4" id="carduri" >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
-        <img class="card-img-top" src="adulti.jpeg" alt="Card image cap">
+        <img class="card-img-top" style="border-radius: 0px 0px 5px 5px;" src="transport.jpg" alt="Card image cap">
        </a>
        <div class="card-body" style="background-color: #983d83; border-radius: 5px;">
-        <h5 class="card-title" style="color: white">Special title treatment</h5>
-        <p class="card-text" style="color: white">With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title" style="color: white">Transport</h5>
+        <p class="card-text" style="color: white">Persoane varstnice sau cu handicap</p> 
        </div>
     </div>
   </div>
-  <div class="col-sm-4" id="carduri"    >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
-        <img class="card-img-top" src="adulti.jpeg" alt="Card image cap">
+        <img class="card-img-top" style="border-radius: 0px 0px 5px 5px;" src="finante.jpeg" alt="Card image cap">
        </a>
        <div class="card-body" style="background-color: #983d83; border-radius: 5px;">
-        <h5 class="card-title" style="color: white">Special title treatment</h5>
-        <p class="card-text" style="color: white">With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title" style="color: white">Ajutor financiar</h5>
+        <p class="card-text" style="color: white">Beneficii sociale, ajutor pentru angajare</p> 
        </div>
     </div>
   </div>
 </div>
 
 <div class="row">
-  <div class="col-sm-4" id="carduri" >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
         <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title">Ingrijire la domiciliu</h5>
+        <p class="card-text">Echipamente ortopedice si medicale</p> 
         </div>
        </a>  
     </div>
   </div>
-  <div class="col-sm-4" id="carduri" >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
         <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title">Ingrijire in centre specializate</h5>
+        <p class="card-text">Solutii de lunga durata</p> 
         </div>
        </a>  
     </div>
   </div>
-  <div class="col-sm-4" id="carduri" >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
         <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title">Cere ajutor social</h5>
+        <p class="card-text">Anchete sociale</p> 
         </div>
        </a>  
     </div>
@@ -103,12 +97,22 @@ With supporting text below as a natural lead-in to additional content.
 </div>
 
 <div class="row">
-  <div class="col-sm-4" id="carduri" >
+  <div class="col-sm-4" id="carduri">
     <div class="card">
        <a href="#">
         <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title">Raporteaza o problema</h5>
+        <p class="card-text">Abuz, neglijenta...</p> 
+        </div>
+       </a>  
+    </div>
+  </div>
+  <div class="col-sm-4" id="carduri">
+    <div class="card">
+       <a href="#">
+        <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
+        <h5 class="card-title">Persoane cu handicap</h5>
+        <p class="card-text">Anchete sociale, recuperare</p> 
         </div>
        </a>  
     </div>
@@ -117,18 +121,8 @@ With supporting text below as a natural lead-in to additional content.
     <div class="card">
        <a href="#">
         <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
-        </div>
-       </a>  
-    </div>
-  </div>
-  <div class="col-sm-4" id="carduri" >
-    <div class="card">
-       <a href="#">
-        <div class="card-body" style="background-color: #f4e6f2; border-radius: 5px;">
-        <h5 class="card-title" >Special title treatment</h5>
-        <p class="card-text" >With supporting text below as a natural lead-in to additional content.</p> 
+        <h5 class="card-title" >Sanatate psihica </h5>
+        <p class="card-text" >Dementa, depresie, anxietate...</p> 
         </div>
        </a>  
     </div>
